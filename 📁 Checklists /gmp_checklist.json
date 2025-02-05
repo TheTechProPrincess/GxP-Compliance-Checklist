@@ -1,0 +1,8 @@
+{
+    "checklist": "GMP Compliance",
+    "questions": [
+        {"question": "Are all manufacturing processes documented?", "response": ""},
+        {"question": "Are regular audits conducted?", "response": ""},
+        {"question": "Is equipment properly maintained?", "response": ""}
+    ]
+}
