@@ -32,9 +32,11 @@ git clone https://github.com/TheTechProPrincess/GxP-Compliance-Toolkit.git
 cd GxP-Compliance-Toolkit
 
 2️⃣ Using the Checklists
-	1.	Navigate to the checklists/ folder.
-	2.	Open any checklist (.md file) in a markdown editor or text editor.
-	3.	Follow the checklist to manually verify compliance.
+1.	Navigate to the checklists/ folder.
+ 
+2.	Open any checklist (.md file) in a markdown editor or text editor.
+   
+3.	Follow the checklist to manually verify compliance.
 
 3️⃣ Running the Auditor Tool
 
