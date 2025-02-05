@@ -6,9 +6,23 @@ This repository provides:
 
 ✔️ An automated Python auditor to check compliance against key GxP principles
 
+# GxP Compliance Auditor  
+
+# 📌 Overview  
+The **GxP Compliance Auditor** is a simple Python-based tool that helps organizations automate compliance checks for:  
+- **Good Manufacturing Practice (GMP)**  
+- **Good Clinical Practice (GCP)**  
+- **Good Laboratory Practice (GLP)**  
+
+This tool reads predefined **checklists** and provides a compliance score based on responses
+
 # 📌 Features
 
 ✅ Checklists for Manual Compliance Verification
+✅ Preloaded GxP compliance checklists  
+✅ Automated compliance scoring  
+✅ Easy-to-use command-line interface  
+✅ Customizable SOP (Standard Operating Procedure) templates  
 	
  •	GMP Checklist: Ensures manufacturing processes meet FDA & global regulatory standards.
 	
@@ -53,6 +67,12 @@ python gxp_auditor.py
 
 The script will analyze data and generate a compliance report showing which areas pass/fail.
 
+## 🛠 Installation  
+1. Clone this repository:  
+   ```sh
+   git clone https://github.com/yourusername/GxP-Compliance-Auditor.git
+   cd GxP-Compliance-Auditor
+   
 # 📜 Contributing
 
 We welcome contributions! 
