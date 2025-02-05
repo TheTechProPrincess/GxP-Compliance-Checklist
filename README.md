@@ -3,6 +3,7 @@
 This repository provides:
 
 ✔️ Pre-built checklists to manually verify compliance
+
 ✔️ An automated Python auditor to check compliance against key GxP principles
 
 # 📌 Features
