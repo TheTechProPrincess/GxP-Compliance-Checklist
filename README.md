@@ -6,8 +6,6 @@ This repository provides:
 
 ✔️ An automated Python auditor to check compliance against key GxP principles
 
-# GxP Compliance Auditor  
-
 # 📌 Overview  
 The **GxP Compliance Auditor** is a simple Python-based tool that helps organizations automate compliance checks for:  
 - **Good Manufacturing Practice (GMP)**  
