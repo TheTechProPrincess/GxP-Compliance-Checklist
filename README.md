@@ -9,14 +9,20 @@ This repository provides:
 # 📌 Features
 
 ✅ Checklists for Manual Compliance Verification
-	•	GMP Checklist: Ensures manufacturing processes meet FDA & global regulatory standards.
-	•	GCP Checklist: Helps verify clinical trials comply with ethical and scientific standards.
-	•	GLP Checklist: Ensures laboratory processes are documented and meet quality guidelines.
+	
+ •	GMP Checklist: Ensures manufacturing processes meet FDA & global regulatory standards.
+	
+ •	GCP Checklist: Helps verify clinical trials comply with ethical and scientific standards.
+	
+ •	GLP Checklist: Ensures laboratory processes are documented and meet quality guidelines.
 
 🤖 Automated GxP Compliance Auditor (Python)
-	•	Reads input compliance data (e.g., CSV, JSON)
-	•	Checks if key GxP requirements are met
-	•	Provides a pass/fail report for easy auditing
+	
+ •	Reads input compliance data (e.g., CSV, JSON)
+	
+ •	Checks if key GxP requirements are met
+	
+ •	Provides a pass/fail report for easy auditing
 
 # 🚀 Getting Started
 
@@ -47,10 +53,14 @@ The script will analyze data and generate a compliance report showing which area
 
 # 📜 Contributing
 
-We welcome contributions! Feel free to:
-	•	Add more checklist items
-	•	Improve the auditor tool
-	•	Suggest new features
+We welcome contributions! 
+Feel free to:	
+
+•	Add more checklist items
+
+•	Improve the auditor tool
+
+•	Suggest new features
 
 # 📧 Contact
 
