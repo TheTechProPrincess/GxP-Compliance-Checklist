@@ -19,6 +19,7 @@ This tool reads predefined **checklists** and provides a compliance score based 
 # 📌 Features
 
 ✅ Checklists for Manual Compliance Verification
+
 ✅ Preloaded GxP compliance checklists  
 ✅ Automated compliance scoring  
 ✅ Easy-to-use command-line interface  
